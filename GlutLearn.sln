@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlutLearn.Web", "GlutLearn.Web\GlutLearn.Web.csproj", "{C1771767-88E5-45FE-BAA5-E0063B700603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlutLearn.Models", "GlutLearn.Models\GlutLearn.Models.csproj", "{E52C965D-6A9E-4429-9D63-73DD4E1B5395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlutLearn.ViewModels", "GlutLearn.ViewModels\GlutLearn.ViewModels.csproj", "{F205A73A-3938-4CF4-B411-AB9DC517CA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlutLearn.Repositories", "GlutLearn.Repositories\GlutLearn.Repositories.csproj", "{72726CE6-E4F4-4D8C-BF43-B47171B891AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlutLearn.Services", "GlutLearn.Services\GlutLearn.Services.csproj", "{0A47847B-1CB0-47D3-9FA8-19B4240CFAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glutlearn.Utilities", "glutlearn.Utilities\glutlearn.Utilities.csproj", "{DF9D222C-F737-4C32-BFA2-A0C63EA2EA40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1771767-88E5-45FE-BAA5-E0063B700603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1771767-88E5-45FE-BAA5-E0063B700603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1771767-88E5-45FE-BAA5-E0063B700603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1771767-88E5-45FE-BAA5-E0063B700603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52C965D-6A9E-4429-9D63-73DD4E1B5395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52C965D-6A9E-4429-9D63-73DD4E1B5395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52C965D-6A9E-4429-9D63-73DD4E1B5395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52C965D-6A9E-4429-9D63-73DD4E1B5395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F205A73A-3938-4CF4-B411-AB9DC517CA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205A73A-3938-4CF4-B411-AB9DC517CA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205A73A-3938-4CF4-B411-AB9DC517CA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205A73A-3938-4CF4-B411-AB9DC517CA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72726CE6-E4F4-4D8C-BF43-B47171B891AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72726CE6-E4F4-4D8C-BF43-B47171B891AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72726CE6-E4F4-4D8C-BF43-B47171B891AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72726CE6-E4F4-4D8C-BF43-B47171B891AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A47847B-1CB0-47D3-9FA8-19B4240CFAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A47847B-1CB0-47D3-9FA8-19B4240CFAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A47847B-1CB0-47D3-9FA8-19B4240CFAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A47847B-1CB0-47D3-9FA8-19B4240CFAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9D222C-F737-4C32-BFA2-A0C63EA2EA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9D222C-F737-4C32-BFA2-A0C63EA2EA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9D222C-F737-4C32-BFA2-A0C63EA2EA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9D222C-F737-4C32-BFA2-A0C63EA2EA40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9B627B-8205-43E4-8E03-EBCB117E68CB}
+	EndGlobalSection
+EndGlobal
