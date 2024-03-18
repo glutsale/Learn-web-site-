@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GlutLearn.Web.props" />
+</Project>
